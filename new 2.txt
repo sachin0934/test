@@ -1,0 +1,1 @@
+select a ,b ,c from table ORDER BY year(dob),fname;
